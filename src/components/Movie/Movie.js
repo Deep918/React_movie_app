@@ -24,7 +24,7 @@ export default class Movie extends Component {
     return (
       <div className="Movie">
         <div className="details" onClick={this.props.toggleActive}>
-          <div className="picture"><img src = {img} width = "50" height = "50"/>
+          <div className="picture"><img src = {img} width = "100" height = "100"/>
           </div>
 
           <div className="metadata">
