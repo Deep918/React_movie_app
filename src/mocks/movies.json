@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Wonder Woman",
+    "category": "Action",
+    "IMDB": 8.5,
+    "isActive": true
+	
+  },
+  {
+    "title": "Lagaan",
+    "category": "Drama",
+    "IMDB": 9.5,
+    "isActive": false
+  },
+  {
+    "title": "Golmaal",
+    "category": "Comedy",
+    "IMDB": 8.2,
+    "isActive": false
+  },
+  {
+    "title": "Dhamaal",
+    "category": "Comedy",
+    "IMDB": 8.5,
+    "isActive": false
+  },
+  {
+    "title": "Baahubali",
+    "category": "Action",
+    "IMDB": 9.5,
+    "isActive": false
+  },
+  {
+    "title": "Supersize Me",
+    "category": "Comedy",
+    "IMDB": 8.5,
+    "isActive": false
+  }
+  
+]
